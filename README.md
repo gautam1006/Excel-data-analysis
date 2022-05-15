@@ -11,7 +11,8 @@ It is a real-world example with 10 problems, And have used the below Excel featu
 <br />
 In the project I have covered the following problems :- 
 <br />
-Given Dataset
+<br />
+Given Dataset provides the information about the sales person of different products of a chocolate brand and the amounts and the units they have sold in the differnet countries.
 
 ![alt](snapshots/1.png)
 <br />
