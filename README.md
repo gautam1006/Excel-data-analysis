@@ -52,6 +52,7 @@ Given Dataset
 <br />
 <br />
 8. Profits by Product
+
 ![alt](snapshots/9.png)
 <br />
 <br />
